@@ -12,7 +12,7 @@
 ![Subaru Forester](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHdvdJIEwOoMBCFEBEFgVUt6LGf69SWCcfT5fQXDQdM2R0PYzfuxXsn5IbQSKhMKlR3U&usqp=CAU)
 
 
-##Table of Contents
+## Table of Contents
 **[1. Markdown](heading--1)**
 * [1.1. Markdown formatting cheatsheet](#heading--1-1)
 * [1.2. Markdown formatting details](#heading--1-2)
